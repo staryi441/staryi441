@@ -75,4 +75,4 @@ GUI для работы с системой и удобными инструме
 
 * GitHub: [staryi441](https://github.com/staryi441)
 * Сайт: [staryi441.github.io](https://staryi441.github.io/)
-* Telegram: [@crayvex](https://t.me/crayvex)
+* Telegram: [@ffl1ve](https://t.me/ffl1ve)
