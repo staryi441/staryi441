@@ -2,8 +2,7 @@
 
 💻 Linux / Backend / Infrastructure enthusiast
 ⚙️ Linux • VPS • Docker • Nginx
-🌐 Networking • Automation • Telegram Bots
-
+🌐 Networking • Automation
 ---
 
 ## 🧠 О себе
