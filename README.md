@@ -31,10 +31,3 @@ C#
 TCP/IP
 DNS
 VPN
-
----
-
-
-## 📬 Contacts
-
-GitHub: https://github.com/staryi441
