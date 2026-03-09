@@ -1,4 +1,3 @@
-# Hi, I'm Staryi 👋
 
 💻 Infrastructure & Backend enthusiast
 ⚙️ Linux servers • VPS • Automation
